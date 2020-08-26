@@ -65,7 +65,7 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Management Information Systems (expected Fall, 2021)",
-      "studyType": "B.S.",
+      "studyType": "B.B.A",
       "startDate": "2017-07-01",
       "endDate": "Present",
       "gpa": "3.05",
@@ -75,27 +75,25 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Leeward Community College",
+      "position": "IT Student Aide",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-08-24",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Campus Computer Lab Aide Trainee",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, Proctor Tests, and Assist Staff "
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "Hawaii Medical Service Association",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "startDate": "2019-05-01",
+      "endDate": "2019-08-01",
+      "summary": "Provider Operations Summer Internship",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Database organization, procedure documentation, and application validation"
       ]
     }
   ],
