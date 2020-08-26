@@ -68,7 +68,7 @@
       "studyType": "B.B.A",
       "startDate": "2017-07-01",
       "endDate": "Present",
-      "gpa": "3.05",
+      "gpa": "",
       "courses": [
       ]
     }
@@ -87,8 +87,8 @@
     },
     {
       "company": "Hawaii Medical Service Association",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "position": "Summer Intern",
+      "website": "",
       "startDate": "2019-05-01",
       "endDate": "2019-08-01",
       "summary": "Provider Operations Summer Internship",
@@ -126,16 +126,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "Spring 2020",
+      "awarder": "University Registrar",
+      "summary": "Undergraduate students are awarded the Dean's List distinction when they have earned a semester GPA of 3.5 or higher and were enrolled in 12 or more credits for a grade."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
