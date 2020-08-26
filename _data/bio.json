@@ -8,50 +8,38 @@
     "website": "https://lbars.github.io",
     "summary": "I am studying for a B.B.A in Management Information Systems under Shidler, the school of Business at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "92-1145 Pueonani Street",
+      "postalCode": "96707",
+      "city": "Kapolei",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "lbars",
+        "url": "http://github.com/lbars"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "landie_boi",
+        "url": "http://instagram.com/landieboi_boi"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Business",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Information Technology",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Automotive",
       "keywords": [
       ]
     }
@@ -59,36 +47,28 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Elementary",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MacOS"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Management Information Systems (expected Fall, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-07-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.05",
       "courses": [
       ]
     }
