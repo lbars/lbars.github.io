@@ -1,0 +1,18 @@
+---
+layout: essay
+type: essay
+title: E3
+# All dates must be YYYY-MM-DD format!
+date: 2020-09-30
+labels:
+  - MIS
+---
+
+
+
+
+In this essay, I will be talking about how I completed the Invoice1 WOD. Feel free to check my code out: https://github.com/lbars/ITM352_F20_repo/blob/master/WODs/Invoice1/invoice.html. When I did this WOD I definitely faced a few challenges and I hope this essay will help others. 
+
+From what I learned from past WODs, before starting a timer and screen recording, it is always good to take a look at the instructions first. This works best for me because it gives me time to think about how I will approach each step. However, for the Invoice1 WOD, it had some steps that I was not familiar with or had forgotten. This required me to review and take another look at previous readings, recorded lectures, and labs. For me, it was remembering on how to use tables in html and remembering when to use back ticks.
+
+My first attempt at Invoice1 ended at the 31 minute mark. I realized afterwards that I could easily reduce that time and get it within the Rx time, if I took some more time to study my previous code. After studying my old copy of Invoice1, I realized that there are numerous ways that I could reduce time by copy and pasting and switching out names. After doing so, I was confident to try again.Sure enough, my second attempt at Invoice1 landed at 21 minutes. 
